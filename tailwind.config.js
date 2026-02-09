@@ -4,13 +4,13 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                sand: '#E8E4DD',
-                charcoal: '#2C2C2C',
-                oak: '#8C7C6D',
+                'gallery-white': '#FFFFFF',
+                'gallery-dark': '#2C2D33',
+                'gallery-footer': '#303030',
+                'gallery-gray': '#F5F5F5',
             },
             fontFamily: {
-                playfair: ['"Playfair Display"', 'serif'],
-                inter: ['"Inter"', 'sans-serif'],
+                sans: ['"Mulish"', 'sans-serif'],
             },
         },
     },
